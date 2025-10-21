@@ -61,7 +61,12 @@ body {
   z-index: 10;
   top: -4rem;
 }
-
+.hero-content h1 {
+  font-family: 'Unica One', sans-serif;
+  font-size: 5rem;
+  color: #b6ff00;
+  text-shadow: 0 0 20px rgba(182,255,0,0.6);
+}
 .btn {
   display: inline-block;
   margin-top: 1rem;
