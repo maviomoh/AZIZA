@@ -47,6 +47,10 @@ body {
 .nav-links a:hover {
   color: #ffffff;
 }
+.nav-links a.active {
+  color: #fff;
+  text-shadow: 0 0 10px #b6ff00;
+}
 .logo {
   font-weight: 700;
 }
